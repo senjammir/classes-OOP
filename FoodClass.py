@@ -36,7 +36,7 @@ class Transaction: #create transaction class
         self.__cost = cost
         self.__customerid = customerid
 
-    def get_date(self):
+    def get_date(self):     #add accessor method for each attribute
         return self.__date
 
     def get_item_name(self):
@@ -48,4 +48,3 @@ class Transaction: #create transaction class
     def get_customerid(self):
         return self.__customerid
 
-        
