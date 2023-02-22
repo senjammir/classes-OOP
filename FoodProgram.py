@@ -11,8 +11,8 @@ dict = {'trans1':['2/15/2023','The Lone Patty',17,569],
 }
 
 """Run program with first customer then second customer by commenting out the first customer"""
-#customer = fc.Customer(570, "Danni Sellyar", "97 Mitchell Way Hewitt Texas 76712", "dsellyarft@gmpg.org", "254-555-9362", False)
-customer = fc.Customer(569, "Aubree Himsworth", "1172 Moulton Hill Waco Texas 76710", "ahimsworthfs@list-manage.com", "254-555-2273", True)
+customer = fc.Customer(570, "Danni Sellyar", "97 Mitchell Way Hewitt Texas 76712", "dsellyarft@gmpg.org", "254-555-9362", False)
+#customer = fc.Customer(569, "Aubree Himsworth", "1172 Moulton Hill Waco Texas 76710", "ahimsworthfs@list-manage.com", "254-555-2273", True)
 
 order_total = 0 #running count of order
 
